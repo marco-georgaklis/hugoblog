@@ -14,6 +14,7 @@ subtitle: ''
 
 content:
   # Filter on criteria
+  active: false
   filters:
     folders:
       - publication
