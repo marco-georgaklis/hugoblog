@@ -14,7 +14,7 @@ organizations:
   url: https://www.vanderbilt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduating senior studying computer science at Vanderbilt University.
+bio: I am a recent computer science graduate from Vanderbilt University.
 
 # Interests to show in About widget
 interests:
@@ -61,6 +61,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a computer science student finishing up my final year at Vanderbilt University in Nashville, TN. My research interests while attending Vanderbilt have focused around artifical intelligence, particularly natural language processing and machine translation. This Fall, I will be beginning my journey as a Software Engineer at Google in Mountain View, California.
+I am a recent computer science graduate from Vanderbilt University in Nashville, TN. My research interests while attending Vanderbilt have focused around artifical intelligence, particularly natural language processing and machine translation. This Fall, I will be beginning my journey as a Software Engineer at Google in Mountain View, California.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
