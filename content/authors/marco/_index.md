@@ -6,7 +6,7 @@ title: Marco Georgaklis
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Student
+role: Computer Science Graduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
