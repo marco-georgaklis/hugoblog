@@ -61,6 +61,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a recent computer science graduate from Vanderbilt University in Nashville, TN. My research interests while attending Vanderbilt have focused around artifical intelligence, particularly natural language processing and machine translation. This Fall, I will be beginning my journey as a Software Engineer at Google in Mountain View, California.
+I am a Software Engineer at Google. I work on making Google Chrome easy to change, hard to break, and ship efficiently.
 
+I also recently graduated from Vanderbilt University in Nashville, TN. My research interests while attending Vanderbilt have focused around artifical intelligence, particularly natural language processing and machine translation. 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
