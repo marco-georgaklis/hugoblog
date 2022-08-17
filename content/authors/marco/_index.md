@@ -6,15 +6,15 @@ title: Marco Georgaklis
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Graduate
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Vanderbilt University
-  url: https://www.vanderbilt.edu/
+- name: Google
+  url: https://www.google.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a recent computer science graduate from Vanderbilt University.
+bio: I am a Software Engineer at Google and recent computer science graduate from Vanderbilt University.
 
 # Interests to show in About widget
 interests:
