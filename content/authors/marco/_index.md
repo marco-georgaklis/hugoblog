@@ -45,7 +45,7 @@ social:
   link: https://github.com/marco-georgaklis
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/marco-georgaklis
+  link: https://www.linkedin.com/in/marco-georgaklis
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -63,5 +63,7 @@ highlight_name: true
 
 I am a Software Engineer at Google. I work on making Google Chrome easy to change, hard to break, and ship efficiently.
 
-I also recently graduated from Vanderbilt University in Nashville, TN. My research interests while attending Vanderbilt have focused around artifical intelligence, particularly natural language processing and machine translation. 
+I also recently graduated from Vanderbilt University in Nashville, TN. My research interests while attending Vanderbilt focused around artifical intelligence, particularly natural language processing and machine translation. 
+
+Outside of work, I love to run, hike, cook, and try out new things.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
