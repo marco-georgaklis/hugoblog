@@ -10,11 +10,8 @@ main:
   - name: Posts
     url: 'https://medium.com/@marco.georgaklis'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
   - name: Contact
-    url: '#contact'
+    url: mailto:marcogeorgaklis28@gmail.com
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
