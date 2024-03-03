@@ -14,7 +14,7 @@ organizations:
   url: https://www.google.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Software Engineer at Google and recent computer science graduate from Vanderbilt University.
+bio: I am a builder and Software Engineer. I currently work for Google on artificial intelligence infrastructure for Chrome.
 
 # Interests to show in About widget
 interests:
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:marcogeorgaklis28@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/marc0ge0
@@ -61,9 +61,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a Software Engineer at Google. I work on making Google Chrome easy to change, hard to break, and ship efficiently.
+I'm Marco, a builder and software engineer based out of San Francisco. I currently work for Google on artificial intelligence infrastructure for Chrome.
 
 I also recently graduated from Vanderbilt University in Nashville, TN. My research interests while attending Vanderbilt focused around artifical intelligence, particularly natural language processing and machine translation. 
 
-Outside of work, I love to run, hike, cook, and try out new things.
+Outside of work, I love to run, hike, play pickleball, and try out new things.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
